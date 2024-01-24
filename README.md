@@ -13,7 +13,7 @@
 <p>
   <h3>Hi 👋, I'm Veiga! An aspiring full stack programmer from Brazil.</h3>
 
-  - 🌱 I’m currently learning PHP, Laravel, Javascript and React.
+  - 🌱 I’m currently learning PHP, Laravel, Javascript and Angular.
 
   - 📖 I am looking to learn Ruby, Ethical Hacking and Penetration Testing on Kali Linux, Machine Learning, Websockets, and Data Security.
 

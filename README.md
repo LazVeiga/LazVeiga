@@ -6,7 +6,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" height="100%" width="100%" src="https://media0.giphy.com/media/Zdyq5h13gxhdQeoP0q/giphy.gif?cid=ecf05e47zbeyg58jd50c936rqufbhjwo0m8e9zp0za6657ll&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Imagem">
+  <img align="center" height="100%" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVvbGFweDJpZHVtczN4bzVjbGoxMWdzYWxwaGc2bm5vd2V6aWk0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0PX1PqTeqhbtKMekM/giphy.gif" alt="Imagem">
 </p>
 
 <!-- Presentation -->

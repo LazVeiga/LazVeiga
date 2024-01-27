@@ -1,17 +1,22 @@
-<!--título-->
+<!-- title -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Greetings! 🍸</h1></summary>
 </div>
 
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <!-- GIF -->
-<p align="left">
-  <img align="center" height="100%" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVvbGFweDJpZHVtczN4bzVjbGoxMWdzYWxwaGc2bm5vd2V6aWk0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0PX1PqTeqhbtKMekM/giphy.gif" alt="Imagem">
+<p align="center">
+  <img height="100%" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVvbGFweDJpZHVtczN4bzVjbGoxMWdzYWxwaGc2bm5vd2V6aWk0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0PX1PqTeqhbtKMekM/giphy.gif" alt="Imagem">
 </p>
+
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- Presentation -->
 <p>
-  <h3>Hi 👋, I'm Veiga! An aspiring full stack programmer from Brazil.</h3>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=30&duration=4000&pause=100&color=FFFFFF&vCenter=true&random=false&width=1000&lines=Yo!+I'm+Veiga!)](https://git.io/typing-svg)
 
   - 🌱 I’m currently learning PHP, Laravel, Javascript and Angular.
 
@@ -42,8 +47,14 @@
 <!-- (Soon) Links -->
 
 <!-- GithubStats -->
-![LazVeiga GitHub stats](https://github-readme-stats.vercel.app/api?username=LazVeiga&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazVeiga&show_icons=true&theme=gotham)](https://github.com/LazVeiga/github-readme-stats)
+<details>
+  <summary>📈 Github Stats</summary>
+  
+  ![LazVeiga GitHub stats](https://github-readme-stats.vercel.app/api?username=LazVeiga&show_icons=true&theme=gotham)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazVeiga&show_icons=true&theme=gotham)](https://github.com/LazVeiga/github-readme-stats)
+</details>
+
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- (Soon) Portfolio -->
 

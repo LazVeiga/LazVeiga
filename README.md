@@ -37,7 +37,7 @@
 
     * Fluent in conversational Japanese at an intermediate level.
    
-    * Currently diving into the beauty of the Italian language.
+    * Currently diving into the beauty of the Russian language.
 
   - ⚡ Passionate about training, business studies enthusiast, music lover, and obsessed with self-improvement. I genuinely believe that networking forms the fundamental basis for any form of prosperity.
 

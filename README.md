@@ -19,9 +19,9 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=30&duration=4000&pause=100&color=FFFFFF&vCenter=true&random=false&width=1000&lines=Yo!+I'm+Veiga!)](https://git.io/typing-svg)
 
-  - 🌱 I’m currently learning PHP, Laravel, Javascript and Angular.
+  - 🌱 I’m currently learning NextJS, NodeJS, and Machine Learning.
 
-  - 📖 I am looking to learn Ruby, Ethical Hacking and Penetration Testing on Kali Linux, Machine Learning, Websockets, and Data Security.
+  - 📖 I am looking to learn Ruby, Ethical Hacking and Penetration Testing on Kali Linux, Websockets, and Data Security.
 
   - 🔭 I am looking for my first job opportunity.
 </p>
@@ -82,6 +82,8 @@
     <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
     <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
     <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+    <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   </div>
   
   <!-- (Soon) Skills: Libraries -->

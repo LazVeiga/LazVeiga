@@ -9,7 +9,7 @@
 <!-- GIF -->
 <p align="center">
   <img height="100%" width="100%"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjIxYjNobWhzb3p2MjVmZmF3YzV2ZWp4cGV3bjE2NDhpZGN6b3pyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/4wNlsMDPyL0m42hr0X/giphy.gif" alt="Imagem">
+    src="https://media1.tenor.com/m/zg1dKP-pQpIAAAAC/mafia-mafia-game.gif" alt="Imagem">
 </p>
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -17,13 +17,13 @@
 <!-- Presentation -->
 <p>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=30&duration=4000&pause=100&color=FFFFFF&vCenter=true&random=false&width=1000&lines=Yo!+I'm+Veiga!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=30&duration=4000&pause=100&color=FFFFFF&vCenter=true&random=false&width=1000&lines=Hello!+I'm+Veiga!)](https://git.io/typing-svg)
 
   - 🌱 I’m currently learning NextJS, NodeJS, and Machine Learning.
 
   - 📖 I am looking to learn Ruby, Ethical Hacking and Penetration Testing on Kali Linux, Websockets, and Data Security.
 
-  - 🔭 I am looking for my first job opportunity.
+  - 🔭 I am looking for an international job opportunity.
 </p>
 
 <!-- Dropdown -->
@@ -40,7 +40,7 @@
    
     * Currently diving into the beauty of the French language.
 
-  - ⚡ Passionate about training, business studies enthusiast, music and cinema lover, and obsessed with self-improvement. I genuinely believe that networking forms the fundamental basis for any form of prosperity.
+  - ⚡ I genuinely believe that networking forms the fundamental basis for any form of prosperity.
 </details>
 
 <!-- (Soon) Links -->
